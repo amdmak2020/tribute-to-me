@@ -1,0 +1,51 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow:auto ;
+}
+
+.viva{
+    width: 85%;
+    margin: auto;
+}
+.concon{
+    background-color:rgb(236, 236, 236);
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.con{
+    border:2px rgb(204, 204, 204) solid;
+    border-radius: 2px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2vw;
+
+}
+#yikes{
+    width: 100%;
+    height: 2%;
+    text-align: center;
+    background-color: rgb(218, 218, 218);
+    margin: auto;
+}
+.list{
+    width: 85%;
+    margin: auto;
+}
+li{
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+.ayy{
+    margin: auto;
+    text-align: center;
+    color: rgb(56, 56, 56);
+}
